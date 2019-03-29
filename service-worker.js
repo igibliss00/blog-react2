@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/song-desc-react/precache-manifest.0e969ebb794e91c6becc7c8a7b4c74a9.js"
+  "/blog-react2/precache-manifest.a3f040fda79e22b0fa6d3d399aeffdf3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/song-desc-react/index.html", {
+workbox.routing.registerNavigationRoute("/blog-react2/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

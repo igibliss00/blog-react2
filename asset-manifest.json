@@ -1,11 +1,11 @@
 {
-  "main.js": "/song-desc-react/static/js/main.759b0c15.chunk.js",
-  "main.js.map": "/song-desc-react/static/js/main.759b0c15.chunk.js.map",
-  "runtime~main.js": "/song-desc-react/static/js/runtime~main.08091314.js",
-  "runtime~main.js.map": "/song-desc-react/static/js/runtime~main.08091314.js.map",
-  "static/js/2.c4a3dd51.chunk.js": "/song-desc-react/static/js/2.c4a3dd51.chunk.js",
-  "static/js/2.c4a3dd51.chunk.js.map": "/song-desc-react/static/js/2.c4a3dd51.chunk.js.map",
-  "index.html": "/song-desc-react/index.html",
-  "precache-manifest.0e969ebb794e91c6becc7c8a7b4c74a9.js": "/song-desc-react/precache-manifest.0e969ebb794e91c6becc7c8a7b4c74a9.js",
-  "service-worker.js": "/song-desc-react/service-worker.js"
+  "main.js": "/blog-react2/static/js/main.759b0c15.chunk.js",
+  "main.js.map": "/blog-react2/static/js/main.759b0c15.chunk.js.map",
+  "runtime~main.js": "/blog-react2/static/js/runtime~main.f8751019.js",
+  "runtime~main.js.map": "/blog-react2/static/js/runtime~main.f8751019.js.map",
+  "static/js/2.c4a3dd51.chunk.js": "/blog-react2/static/js/2.c4a3dd51.chunk.js",
+  "static/js/2.c4a3dd51.chunk.js.map": "/blog-react2/static/js/2.c4a3dd51.chunk.js.map",
+  "index.html": "/blog-react2/index.html",
+  "precache-manifest.a3f040fda79e22b0fa6d3d399aeffdf3.js": "/blog-react2/precache-manifest.a3f040fda79e22b0fa6d3d399aeffdf3.js",
+  "service-worker.js": "/blog-react2/service-worker.js"
 }
